@@ -1,6 +1,13 @@
 
 # 💫 About Me:
-Hello! My name is Utku, and I'm 34 years old. I hold a bachelor's degree in Agricultural Economics and an MBA degree. Prior to my career in the tech industry, I opened and managed a dance school and an organic food company.<br><br>After relocating to Berlin, I decided to shift gears and pursue a career as a frontend developer. I embarked on a journey of learning web development, completing numerous online courses and extensively studying documentation. Currently, I have a solid grasp of JavaScript, React/Js, Wordpress, HTML, and CSS.<br><br>I am constantly striving to expand my knowledge and stay up-to-date with the latest technologies in the field. My aim is to create engaging and interactive web projects, contributing to the digital world. I enjoy the challenge of experimenting with different technologies and continuously honing my skills.<br><br>Moreover, my diverse background has provided me with a strong foundation in business strategy and management skills. These experiences enable me to approach web projects strategically and deliver user-friendly solutions.<br><br>By sharing my projects on GitHub, I hope to showcase my progress in web development and engage with the community. I am excited about collaborating on new projects, exchanging ideas, and exploring various technologies.<br><br>If you are interested in collaborating or working together on a new project, please feel free to reach out to me. I am enthusiastic about contributing to open-source projects, exploring innovative ideas, and making a difference in the web development world.<br><br>Thank you!
+Agricultural Engineer with a specialization in Agricultural Economics, bringing strong expertise in organic farming and organic product marketing.
+My career journey began with professional dance instruction, a passion I developed during university, where I refined my leadership, teaching, and
+communication skills. Transitioning into digital marketing, I specialized in social media marketing, particularly Meta Ads (Facebook & Instagram)
+and SEO, driving online engagement and business growth.
+With a background in web development and management, I initially utilized low-code tools like WordPress to build and optimize websites for
+marketing purposes. Over time, I deep-dived into frontend development, gaining solid proficiency in JavaScript, HTML, CSS, React, and Next.js. Now,
+I integrate my technical, marketing, and analytical skills to create data-driven, high-impact digital solutions at the intersection of technology,
+marketing, and business strategy.
 
 
 ## 🌐 Socials:
